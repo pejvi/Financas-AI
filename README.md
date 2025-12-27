@@ -131,6 +131,8 @@ Funcionalidades-Chave:
 Entregável da IA:
 Gerar um plano de MVP com telas, recursos e validação inicial. Usar tom educativo, linguagem acessível e criar um agente inteligente.
 🖼️ 7. Prints do MVP
+/1.JPG
+
 💭 8. Reflexão sobre o Processo
 
 O desafio mostrou como a IA pode acelerar a criação de produtos digitais:
@@ -187,4 +189,5 @@ Sistema de login
 Exportação como webapp
 
 App publicado:
+
 https://conversa-rica.lovable.app/
