@@ -132,7 +132,7 @@ Entregável da IA:
 Gerar um plano de MVP com telas, recursos e validação inicial. Usar tom educativo, linguagem acessível e criar um agente inteligente.
 
 🖼️ 7. Prints do MVP
-   imagens/1.JPG
+  ![Print do MVP](./1.JPG)
 
 💭 8. Reflexão sobre o Processo
 
@@ -192,5 +192,6 @@ Exportação como webapp
 App publicado:
 
 https://conversa-rica.lovable.app/
+
 
 
